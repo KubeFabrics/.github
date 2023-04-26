@@ -6,7 +6,8 @@
 | |\  \| || (_| | |_) |
 \_| \_/\_| \__,_|_.__/ 
                        
-                       ```
+
+```
 
 # Goals
 
@@ -33,6 +34,9 @@ A fabric is a declarative way of deploying common fully operationalized stacks  
 - Flutter
 - Go
 - Web3
+- Spark
+- Delta Lake
+
 
 # How are fabrics built
 
